@@ -1,0 +1,4 @@
+/node_modules
+/config/config
+.DS_Store
+/dummyData.json
